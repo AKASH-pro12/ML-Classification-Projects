@@ -99,7 +99,7 @@ These metrics help measure the performance of the machine learning models.
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/ML-Classification-Projects.git
+git clone https://github.com/AKASH-pro12/ML-Classification-Projects.git
 
 2️⃣ Install required libraries
 
